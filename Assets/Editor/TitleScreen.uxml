@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="mainContainer" style="opacity: 0.92; top: 189px;">
+        <ui:Label text="Afterstride" name="titleLabel" style="justify-content: center; align-content: center; align-items: center; -unity-text-align: upper-center; color: rgb(151, 146, 99); -unity-font-style: bold; -unity-text-outline-color: rgb(145, 141, 95); text-shadow: 10px 0.2px 1px rgb(68, 148, 182); font-size: 25px;" />
+        <ui:VisualElement style="flex-grow: 1; flex-direction: row; height: 40%; width: 80%; justify-content: center; align-self: center; border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;">
+            <ui:Button text="Start" name="startButton" style="-unity-text-align: middle-center; width: 40%; height: 40px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: rgb(113, 165, 168);" />
+            <ui:Button text="Quit" name="quitButton" style="-unity-text-align: middle-center; width: 40%; align-items: auto; white-space: pre; position: relative; height: 40px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: rgb(255, 78, 78); justify-content: flex-start;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
