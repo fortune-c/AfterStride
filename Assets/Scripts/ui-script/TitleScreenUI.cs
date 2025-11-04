@@ -21,7 +21,7 @@ public class TitleScreenUI : MonoBehaviour
 
     void OnPlayClicked()
     {
-        SceneManager.LoadScene("MenuScreen");
+        SceneManager.LoadScene("MainScreen");
     }
     
     void OnQuitClicked()
