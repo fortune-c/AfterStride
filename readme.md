@@ -1,6 +1,3 @@
-![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/29371222/184680900-bee02364-46ed-41eb-a353-950e78b3f407.gif)
-
-
 Project Outcome:
 
 * The character, background, and obstacle of your choice will be set up. The player will be able to press spacebar and make the character jump, as obstacles spawn at the edge of the screen and block the player’s path
